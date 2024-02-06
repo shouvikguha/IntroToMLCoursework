@@ -1,6 +1,6 @@
 # IntroToMLCoursework
 
-Welcome to IntroToMLCoursework, a repository dedicated to providing clear explanations and implementations of various foundational machine learning algorithms. This project is designed for those new to machine learning, offering notebooks that cover key concepts and algorithms through examples and exercises.
+Welcome to IntroToMLCoursework, a repository dedicated to providing clear explanations and implementations of various foundational machine learning algorithms I used in my time in CSE 151A @ UCSD. This project is designed for those new to machine learning, offering notebooks that cover key concepts and algorithms through examples and exercises.
 
 ## Overview
 
