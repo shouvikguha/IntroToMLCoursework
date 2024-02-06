@@ -25,13 +25,13 @@ pip install notebook
 After installation, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/MLAlgorithmsExplained.git
+git clone https://github.com/yourusername/IntroToMLCoursework.git
 ```
 
 Navigate to the repository directory and start Jupyter Notebook:
 
 ```bash
-cd MLAlgorithmsExplained
+cd IntroToMLCoursework
 jupyter notebook
 ```
 
